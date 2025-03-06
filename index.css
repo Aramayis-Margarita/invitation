@@ -69,7 +69,10 @@ header {
 .place-photo {
   max-width: 400px;
 }
-.place-photo img {
+.place-photo1{
+  max-width: 175px;
+}
+.place-photo img, .place-photo1 img {
   width: 100%;
 }
 .city {
