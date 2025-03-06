@@ -222,6 +222,9 @@ input[type="radio"] {
   .text {
     margin: 20px 0;
   }
+  .place-photo {
+    max-width: 80px;
+  }
 }
 @media screen and (max-width: 400px) {
   .yesNo label {
